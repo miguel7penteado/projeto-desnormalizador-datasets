@@ -1,0 +1,11 @@
+Nome do Laboratório,,,,,,,,,
+Nome do Projeto,,,,,,,,,
+,,,,Arsênico,,Cadmio,,Cobre,
+,,,,mg/kg,,mg/kg,,mg/kg,
+,,,,seco,,seco,,seco,
+codigo_cliente,codigo_amostra,data_preparo,data_analise,concentração,qualificador,concentracao,qualificador,concentracao,qualificador
+SD00231,45298-01,2013-06-23,2013-06-24,0.11,U,112,,251,
+SD00232,45298-02,2013-06-23,2013-06-24,8.21,,582,,396,
+SD00233,45298-03,2013-06-23,2013-06-24,0.11,U,45.1,,2.4,U
+SD00235,45298-04,2013-06-23,2013-06-24,0.11,U,69,,2.4,U
+SD00236,45298-05,2013-06-23,2013-06-24,4.53,,98.9,,85.8,

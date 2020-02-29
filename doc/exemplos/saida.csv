@@ -1,0 +1,16 @@
+codigo_cliente,codigo_amostra,data_preparo,data_analise,analise,unidades,medidas_base,concentracao,qualificacao
+SD00231,45298-01,2013-06-23,2013-06-24,Arsênico,mg/kg,seco,0.11,U
+SD00231,45298-01,2013-06-23,2013-06-24,Cadmio,mg/kg,seco,112,
+SD00231,45298-01,2013-06-23,2013-06-24,Cobre,mg/kg,seco,251,
+SD00232,45298-02,2013-06-23,2013-06-24,Arsênico,mg/kg,seco,8.21,
+SD00232,45298-02,2013-06-23,2013-06-24,Cadmio,mg/kg,seco,582,
+SD00232,45298-02,2013-06-23,2013-06-24,Cobre,mg/kg,seco,396,
+SD00233,45298-03,2013-06-23,2013-06-24,Arsênico,mg/kg,seco,0.11,U
+SD00233,45298-03,2013-06-23,2013-06-24,Cadmio,mg/kg,seco,45.1,
+SD00233,45298-03,2013-06-23,2013-06-24,Cobre,mg/kg,seco,2.4,U
+SD00235,45298-04,2013-06-23,2013-06-24,Arsênico,mg/kg,seco,0.11,U
+SD00235,45298-04,2013-06-23,2013-06-24,Cadmio,mg/kg,seco,69,
+SD00235,45298-04,2013-06-23,2013-06-24,Cobre,mg/kg,seco,2.4,U
+SD00236,45298-05,2013-06-23,2013-06-24,Arsênico,mg/kg,seco,4.53,
+SD00236,45298-05,2013-06-23,2013-06-24,Cadmio,mg/kg,seco,98.9,
+SD00236,45298-05,2013-06-23,2013-06-24,Cobre,mg/kg,seco,85.8,
